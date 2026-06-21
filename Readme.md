@@ -138,4 +138,4 @@ pip install tensorflow numpy opencv-python matplotlib kagglehub
 
 ## License
 
-This project is open source. Add your preferred license (e.g., MIT) here.
+This project is released under the MIT License, allowing anyone to use, modify, and distribute the code with proper attribution. See the [LICENSE](LICENSE) file for more information.
