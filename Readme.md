@@ -133,7 +133,7 @@ pip install tensorflow numpy opencv-python matplotlib kagglehub
 
 ## Acknowledgements
 
-- Dataset: [Anime Faces by Soumik Rakshit](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
+
 - Architecture inspired by the original [DCGAN paper](https://arxiv.org/abs/1511.06434) and the [TensorFlow DCGAN tutorial](https://www.tensorflow.org/tutorials/generative/dcgan).
 
 ## License
